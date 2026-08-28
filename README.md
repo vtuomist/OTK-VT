@@ -259,7 +259,8 @@ Yhteen- ja kertolaskun vastaukset menevät väärinpäin, koska yhteen lasku pyy
 <img width="1140" height="854" alt="image" src="https://github.com/user-attachments/assets/ec0743ca-cc97-4389-8028-337f4a549b61" />
 
 <br><br>
-Koodi on korjattu vaihtamalla add_numbers ja multiply_numbers oikeille paikoille
+Koodi on korjattu vaihtamalla add_numbers ja multiply_numbers oikeille paikoille.
+<br><br>
 <img width="897" height="876" alt="image" src="https://github.com/user-attachments/assets/dd94277a-956f-4b07-b05d-5e318797bbd3" />
 
 </p>
@@ -305,26 +306,29 @@ Koodi lähti toimimaan kun merkit vaihdettiin.
 
 
 
+<details>
 
+<summary>  # Tehtävä 9 </summary>
 
+<p>
 
+# Number counter bug
 
+<br><br>
 
+Koodi antaa väärän vaustauksen 10: 6, koska koodin arvot ovat asetettu väärin. Koodi aloittaa lisää laskuihin yhden lisää "count = 1" ja laskee mukaan myös 10 koska "if num >= 10:"
 
+<img width="707" height="739" alt="image" src="https://github.com/user-attachments/assets/cf07079d-45d6-4839-b3f0-9002ad3e3d14" />
 
+<br><br>
 
+Koodi on korjattu kun countin aloittaa nollasta ja 10 ei laske itseänsä mukaan.
 
+<img width="718" height="710" alt="image" src="https://github.com/user-attachments/assets/a61880aa-c374-4a58-bba1-add8c31309b1" />
 
+</p>
 
-
-
-
-
-
-
-
-
-
+</details>
 
 
 
