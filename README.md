@@ -1,10 +1,12 @@
+
 # OTK
 Ohjelmoinnin työkalut ja käyttäjäkokemus kurssin tehtäviä.
 
+<details>
 
-# 1. Debuggaus tehtävä
+<summary> # 1. Debuggaus tehtävä </summary>
 
-
+<p>
 
 <img width="747" height="522" alt="image" src="https://github.com/user-attachments/assets/9c8631dc-05eb-4313-84d9-3d598c96aca4" />
 
@@ -25,3 +27,5 @@ Tehtävässä oli lisäkysymyksiä:
 - Yritysten määrä oli 2 (vasen reuna), luku olisi suurempi jos olisi mennyt ekalla.
 - Ensimmäisellä kierroksella toteutui elif koska lukuni oli liian suuri. Toisella kierroksella toteutui else, sillä luku oli     oikea. Jos olisin vastannut liian pienenellä luvulla if olisi toteutunut.
 - Jos salainen luku olisi kiinteä, se ei olisi enään satunnainen ja pysyisi lukuna "7" joka kierroksella.
+</p>
+</details>
