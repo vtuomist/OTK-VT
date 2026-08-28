@@ -39,10 +39,14 @@ Tehtävässä oli lisäkysymyksiä:
 
 
 
-<br><br>
 
-# 2. Harjoitus Debuggaus
 
+<details>
+
+<summary> # 2. Harjoitus Debuggaus </summary>
+
+ <p>
+   
 <br><br>
 
 Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka butterfly on pidempi.
@@ -60,3 +64,18 @@ Huomasin että elephant on nimilistassa ennen butterflyta ja koodi vain valitsi 
 Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longest word toimi moitteettomasti.
 
 <img width="1285" height="1438" alt="OTK Debug tentti 1 k1" src="https://github.com/user-attachments/assets/04e2f223-fdd1-4f2b-9738-517cd369a8de" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
