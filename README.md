@@ -284,7 +284,8 @@ Vaihdan vain multiply_numbers ja add_numbers paikkaa niin koodi toimii.
 
 <br><br>
 
-Tehtävässä tuli pelkkää F kaikilla paitsi 90% koska koodissa annettiin palautus arvoksi tasan 80% eikä suurempi kuin 80%
+Tehtävässä tuli pelkkää F kaikilla paitsi 90% koska koodissa annettiin palautus arvoksi tasan 80% eikä suurempi kuin 80%.
+
 <img width="260" height="228" alt="image" src="https://github.com/user-attachments/assets/9ca3ff28-dec3-431e-b957-68c3dd9c1924" />
 
 <br><br>
