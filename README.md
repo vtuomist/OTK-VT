@@ -31,3 +31,25 @@ Tehtävässä oli lisäkysymyksiä:
 - Jos salainen luku olisi kiinteä, se ei olisi enään satunnainen ja pysyisi lukuna "7" joka kierroksella.
 </p>
 </details>
+
+<br><br>
+
+# 2. Harjoitus Debuggaus
+
+<img width="1268" height="1439" alt="image" src="https://github.com/user-attachments/assets/2503e91e-eaa4-463f-bb49-64b064145346" />
+
+<br><br>
+
+Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka butterfly on pidempi.
+
+<img width="2422" height="1439" alt="image" src="https://github.com/user-attachments/assets/a8910138-4a3c-4ba9-b0fd-5930e025e2e9" />
+
+<br><br>
+
+Huomasin että elephant on nimilistassa ennen butterflyta ja koodi vain valitsi listasta "pisimmäksi nimeksi" ensimmäisen nimen joka on pidempi kuin 5 kirjainta. Testasin tämän vaihtamalla butterflyn ja elephantin nimeä ja tarkkailemalla vasemman yläreunan longest word kohtaa.
+
+<br><br>
+
+Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longest word toimi moitteettomasti.
+
+<img width="1285" height="1438" alt="OTK Debug tentti 1 k1" src="https://github.com/user-attachments/assets/04e2f223-fdd1-4f2b-9738-517cd369a8de" />
