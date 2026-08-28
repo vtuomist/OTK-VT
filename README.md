@@ -44,7 +44,7 @@ Tehtävässä oli lisäkysymyksiä:
 
 <details>
 
-<summary> # 2. Harjoitus Debuggaus </summary>
+<summary> # 2. Harjoitus Debuggaus (tentti) teht 1 </summary>
 
  <p>
    
