@@ -6,7 +6,6 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 - Ohjelmistona käytän $$\color{blue}{\text{VS codea}}$$.
 
 <br><br>
-<br><br>
 
 <details>
 
