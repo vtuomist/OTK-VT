@@ -100,7 +100,7 @@ Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longe
 
 <p>
 
-# Syntax Error
+# SyntaxError
 
 
 <br><br>
@@ -133,7 +133,7 @@ Korjattuna.
 
 <p>
 
-# Identation error
+# IdentationError
 
 <br><br>
 
@@ -159,7 +159,7 @@ Koodia ei oltu jäsennelty oikein. Asioita piti tabailla oikean järjestykseen.
 
 <p>
 
-# Name error
+# NameError
 
 <br><br>
 
@@ -223,7 +223,7 @@ Kerroin koodille mitkä numerot laskea. (numbers[0], numbers[1], numbers[2])
 
 <p>
 
-# Logic error
+# LogicError
 
 <br><br>
 
@@ -235,6 +235,59 @@ Koodissa ei ollut logic erroria vaan toimi kuten tarkoitettu.
 </p>
 
 </details>
+
+
+
+
+
+
+
+
+
+<details>
+
+<summary>  # Tehtävä 7 </summary>
+
+<p>
+
+# CalculatorError
+
+<br><br>
+
+Yhteen- ja kertolaskun vastaukset menevät väärinpäin, koska yhteen lasku pyytää kertomaan numerot ja sama toisinpäin.
+
+<img width="452" height="138" alt="image" src="https://github.com/user-attachments/assets/54a0de5e-9080-4eed-ad07-90a7c06b310b" />
+
+<br><br>
+Vaihdan vain multiply_numbers ja add_numbers paikkaa niin koodi toimii.
+<img width="1140" height="854" alt="image" src="https://github.com/user-attachments/assets/ec0743ca-cc97-4389-8028-337f4a549b61" />
+
+<br><br>
+
+<img width="897" height="876" alt="image" src="https://github.com/user-attachments/assets/dd94277a-956f-4b07-b05d-5e318797bbd3" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
