@@ -1,2 +1,4 @@
-# Tehtäviä
-Ohjelmoinnin työkalut ja käyttäjäkokemus kurssin tehtäviä.
+# Ohjelmoinnin työkalut ja käyttäjäkokemus kurssin tehtäviä.
+
+
+# Debuggaus tehtävä
