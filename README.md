@@ -274,6 +274,32 @@ Vaihdan vain multiply_numbers ja add_numbers paikkaa niin koodi toimii.
 
 
 
+<details>
+
+<summary>  # Tehtävä 8 </summary>
+
+<p>
+
+# Grade checker bug
+
+<br><br>
+
+Tehtävässä tuli pelkkää F kaikilla paitsi 90% koska koodissa annettiin palautus arvoksi tasan 80% eikä suurempi kuin 80%
+<img width="260" height="228" alt="image" src="https://github.com/user-attachments/assets/9ca3ff28-dec3-431e-b957-68c3dd9c1924" />
+
+<br><br>
+Koodi lähti toimimaan kun merkit vaihdettiin.
+
+<img width="1098" height="1079" alt="image" src="https://github.com/user-attachments/assets/d3f8226e-83c0-452e-b3e2-80be579ab655" />
+
+</p>
+
+</details>
+
+
+
+
+
 
 
 
