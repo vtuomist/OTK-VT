@@ -16,5 +16,11 @@ Tehtävässä tutustuttiin debug toimintoon "arvaa luku pelillä". Tehtävän ta
 Tehtävässä kysyttiin:
 - satunnaisesti arvottu numero:      1-10 välillä. Minulle se oli 4.
 - yritysten määrä:                   2
-- pelin päättävää ehtoa:             else
+- pelin päättävää ehtoa:             else, oikean numeron löydyttyä.
 - Jokaisen kierroksen muuttuja:      Jokaisella kierroksella muuttuja oli satunnainen numero.
+<br><br>
+Tehtävässä oli lisäkysymyksiä:
+- Arvottava luku oli 4 (vasen yläreuna), Luku olisi voinut olla välillä 1-10.
+- Yritysten määrä oli 2 (vasen reuna), luku olisi suurempi jos olisi mennyt ekalla.
+- Ensimmäisellä kierroksella tapahtui elif koska lukuni oli liian suuri. Toisella kierroksella tapahtui else, sillä luku oli     oikea.
+- Jos salainen luku olisi kiinteä, se ei olisi enään satunnainen ja pysyisi lukuna "7" joka kierroksella.
