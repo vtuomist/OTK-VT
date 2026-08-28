@@ -1,7 +1,7 @@
 
 # Ohjelmoinnin työkalut ja käyttäjäkokemus.
 
-Kurssin tehtäviä, vastauksia ja kuvia.
+Kurssin tehtäviä, vastauksia ja kuvia. $$\color{blue}{\text{Visual Studio Code}}$$
 
 <details>
 
