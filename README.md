@@ -1,7 +1,9 @@
 # Ohjelmoinnin työkalut ja käyttäjäkokemus.
 
-Kurssin tehtäviä, vastauksia ja kuvia. Tehtävät ovat numeroitu siinnä järjestyksessä kuin ne ovat Moodlessa. 
-Ohjelmistona käytän $$\color{blue}{\text{VS codea}}$$.
+Kurssin tehtäviä, vastauksia ja kuvia. 
+- Tehtävät ovat numeroitu siinä järjestyksessä kuin ne ovat Moodlessa.
+- Tenttien tehtävät ovat eritelty omiin osioihinsa ja merkattu (tentti) tekstillä.
+- Ohjelmistona käytän $$\color{blue}{\text{VS codea}}$$.
 
 
 <details>
