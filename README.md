@@ -185,13 +185,29 @@ Lisäsin puuttuvan "e" kirjaimen ja koodi alkoi toimia.
 
 
 
+<details>
 
+<summary>  # Tehtävä 5 </summary>
 
+<p>
 
+# TypeError
 
+<br><br>
 
+Koodi ei tiennyt mitkä numerot sen pitää laskea.
 
+<img width="734" height="386" alt="image" src="https://github.com/user-attachments/assets/087e57c3-068b-4691-991b-c2543e64ff53" />
 
+<br><br>
+
+Kerroin koodille mitkä numerot laskea. (numbers[0], numbers[1], numbers[2])
+
+<img width="797" height="818" alt="image" src="https://github.com/user-attachments/assets/e27b0828-cc23-4395-962f-12c29bef7f30" />
+
+</p>
+
+</details>
 
 
 
