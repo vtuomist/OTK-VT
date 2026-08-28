@@ -1,7 +1,8 @@
 
 # Ohjelmoinnin työkalut ja käyttäjäkokemus.
 
-Kurssin tehtäviä, vastauksia ja kuvia. $$\color{blue}{\text{Visual Studio Code}}$$
+Kurssin tehtäviä, vastauksia ja kuvia. 
+- IDE ohjelmistona toimii $$\color{blue}{\text{Visual Studio Code}}$$
 
 <details>
 
