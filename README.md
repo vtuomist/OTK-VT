@@ -4,7 +4,7 @@ Ohjelmoinnin työkalut ja käyttäjäkokemus kurssin tehtäviä.
 
 <details>
 
-<summary> # 1. Debuggaus tehtävä </summary>
+<summary> # 1.  Debuggaus tehtävä </summary>
 
 <p>
 
