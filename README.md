@@ -46,9 +46,11 @@ Tehtävässä oli lisäkysymyksiä:
 
 
 
+<details>
 
+<summary> # 2. Harjoitus Debuggaus (tentti) </summary>
 
-# 2. Harjoitus Debuggaus (tentti)
+<p>
 
 <details>
 
@@ -88,3 +90,13 @@ Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longe
 
 
 
+
+
+
+
+
+
+
+</p>
+
+</details>
