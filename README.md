@@ -58,6 +58,9 @@ Tehtävässä oli lisäkysymyksiä:
 
 <p>
 
+# Word Length Bug
+
+
 <br><br>
 
 Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka "butterfly" on pidempi.
@@ -94,6 +97,9 @@ Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longe
 
 <p>
 
+# Syntax Error
+
+
 <br><br>
 
 Koodista puuttu sulku. L14
@@ -109,6 +115,45 @@ Korjattuna.
 </p>
 
 </details>
+
+
+
+
+
+
+
+
+
+<details>
+
+<summary>  # Tehtävä 2 </summary>
+
+<p>
+
+# Identation error
+
+<br><br>
+
+Koodia ei oltu jäsennelty oikein. Asioita piti tabailla oikean järjestykseen.
+
+<img width="1275" height="1439" alt="image" src="https://github.com/user-attachments/assets/a993d091-1ec7-4ffd-a05f-bb4c23764913" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
