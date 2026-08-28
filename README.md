@@ -259,7 +259,7 @@ Yhteen- ja kertolaskun vastaukset menevät väärinpäin, koska yhteen lasku pyy
 <img width="1140" height="854" alt="image" src="https://github.com/user-attachments/assets/ec0743ca-cc97-4389-8028-337f4a549b61" />
 
 <br><br>
-Vaihdan vain multiply_numbers ja add_numbers paikkaa niin koodi toimii.
+Koodi on korjattu vaihtamalla add_numbers ja multiply_numbers oikeille paikoille
 <img width="897" height="876" alt="image" src="https://github.com/user-attachments/assets/dd94277a-956f-4b07-b05d-5e318797bbd3" />
 
 </p>
