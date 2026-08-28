@@ -217,6 +217,29 @@ Kerroin koodille mitkä numerot laskea. (numbers[0], numbers[1], numbers[2])
 
 
 
+<details>
+
+<summary>  # Tehtävä 6 </summary>
+
+<p>
+
+# Logic error
+
+<br><br>
+
+Koodissa ei ollut logic erroria vaan toimi kuten tarkoitettu.
+
+
+<img width="753" height="826" alt="image" src="https://github.com/user-attachments/assets/8be7a907-287d-413e-bcc4-ff0d63325a37" />
+
+</p>
+
+</details>
+
+
+
+
+
 
 
 
