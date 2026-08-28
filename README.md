@@ -153,6 +153,42 @@ Koodia ei oltu jäsennelty oikein. Asioita piti tabailla oikean järjestykseen.
 
 
 
+<details>
+
+<summary>  # Tehtävä 4 </summary>
+
+<p>
+
+# Name error
+
+<br><br>
+
+Koodista puuttuu kirjain.
+
+<img width="659" height="252" alt="image" src="https://github.com/user-attachments/assets/a3de83a8-3184-461c-9672-ddd1fbe6bb87" />
+
+<br><br>
+
+Lisäsin puuttuvan "e" kirjaimen ja koodi alkoi toimia.
+
+<img width="1091" height="995" alt="image" src="https://github.com/user-attachments/assets/ea85ca50-20f0-4b34-925d-972c38b9b844" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
