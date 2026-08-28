@@ -88,6 +88,39 @@ Ongelma oli selkeästi if 5 > max_length: kohdassa koodia ja sen korjattua longe
 
 
 
+<details>
+
+<summary>  # Tehtävä 2 </summary>
+
+<p>
+
+<br><br>
+
+Koodista puuttu sulku. L14
+
+<img width="568" height="416" alt="image" src="https://github.com/user-attachments/assets/bb9370a1-cf30-4754-86b3-65a316a307b8" />
+
+<br><br>
+
+Korjattuna.
+
+<img width="1187" height="1439" alt="image" src="https://github.com/user-attachments/assets/e4cf8dd4-b577-43b3-883c-304993794efd" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
