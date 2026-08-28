@@ -52,6 +52,9 @@ Tehtävässä oli lisäkysymyksiä:
 
 <p>
 
+
+
+
 <details>
 
 <summary>  # Tehtävä 1 </summary>
@@ -126,7 +129,7 @@ Korjattuna.
 
 <details>
 
-<summary>  # Tehtävä 2 </summary>
+<summary>  # Tehtävä 3 </summary>
 
 <p>
 
