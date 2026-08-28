@@ -9,6 +9,9 @@ Kurssin tehtäviä, vastauksia ja kuvia. Ohjelmistona käytän $$\color{blue}{\t
 <summary> # 1. Debuggaus tehtävä </summary>
 
 <p>
+  
+
+
 
 <img width="747" height="522" alt="image" src="https://github.com/user-attachments/assets/9c8631dc-05eb-4313-84d9-3d598c96aca4" />
 
@@ -32,21 +35,25 @@ Tehtävässä oli lisäkysymyksiä:
 </p>
 </details>
 
+
+
+
+
 <br><br>
 
 # 2. Harjoitus Debuggaus
-
-<img width="1268" height="1439" alt="image" src="https://github.com/user-attachments/assets/2503e91e-eaa4-463f-bb49-64b064145346" />
 
 <br><br>
 
 Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka butterfly on pidempi.
 
-<img width="2422" height="1439" alt="image" src="https://github.com/user-attachments/assets/a8910138-4a3c-4ba9-b0fd-5930e025e2e9" />
+<img width="1268" height="1439" alt="image" src="https://github.com/user-attachments/assets/2503e91e-eaa4-463f-bb49-64b064145346" />
 
 <br><br>
 
 Huomasin että elephant on nimilistassa ennen butterflyta ja koodi vain valitsi listasta "pisimmäksi nimeksi" ensimmäisen nimen joka on pidempi kuin 5 kirjainta. Testasin tämän vaihtamalla butterflyn ja elephantin nimeä ja tarkkailemalla vasemman yläreunan longest word kohtaa.
+
+<img width="2422" height="1439" alt="image" src="https://github.com/user-attachments/assets/a8910138-4a3c-4ba9-b0fd-5930e025e2e9" />
 
 <br><br>
 
