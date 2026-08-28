@@ -2,7 +2,7 @@
 
 Kurssin tehtäviä, vastauksia ja kuvia. 
 - Tehtävät ovat numeroitu siinä järjestyksessä kuin ne ovat Moodlessa.
-- Tenttien tehtävät ovat eritelty omiin osioihinsa ja merkattu (tentti) tekstillä.
+- Moniosaisten tenttien tehtävät ovat eritelty omiin osioihinsa ja merkattu (tentti) tekstillä.
 - Ohjelmistona käytän $$\color{blue}{\text{VS codea}}$$.
 
 <br><br>
@@ -46,12 +46,16 @@ Tehtävässä oli lisäkysymyksiä:
 
 
 
+
+
+# 2. Harjoitus Debuggaus (tentti)
+
 <details>
 
-<summary> # 2. Harjoitus Debuggaus (tentti) teht 1 </summary>
+<summary>  # Tehtävä 1 </summary>
 
- <p>
-   
+<p>
+
 <br><br>
 
 Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka "butterfly" on pidempi.
