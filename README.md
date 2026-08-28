@@ -1,4 +1,3 @@
-
 # Ohjelmoinnin työkalut ja käyttäjäkokemus.
 
 Kurssin tehtäviä, vastauksia ja kuvia. Ohjelmistona käytän $$\color{blue}{\text{VS codea}}$$.
@@ -41,6 +40,8 @@ Tehtävässä oli lisäkysymyksiä:
 
 
 
+
+
 <details>
 
 <summary> # 2. Harjoitus Debuggaus </summary>
@@ -49,7 +50,7 @@ Tehtävässä oli lisäkysymyksiä:
    
 <br><br>
 
-Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka butterfly on pidempi.
+Ensimmäisessä tehtävässä oli lähdekoodi, jonka tarkoitus oli etsiä sanojen "cat", "elephant", "dog", "butterfly", "bird" joukosta pisin sana. Jostain syystä koodin pisti pisimmäksi sanaksi "elephant" vaikka "butterfly" on pidempi.
 
 <img width="1268" height="1439" alt="image" src="https://github.com/user-attachments/assets/2503e91e-eaa4-463f-bb49-64b064145346" />
 
