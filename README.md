@@ -1,10 +1,11 @@
 
-# OTK
-Ohjelmoinnin työkalut ja käyttäjäkokemus kurssin tehtäviä.
+# Ohjelmoinnin työkalut ja käyttäjäkokemus.
+
+Kurssin tehtäviä, vastauksia ja kuvia.
 
 <details>
 
-<summary> # 1.  Debuggaus tehtävä </summary>
+<summary> # 1. Debuggaus tehtävä </summary>
 
 <p>
 
