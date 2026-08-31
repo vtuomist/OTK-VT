@@ -1,5 +1,8 @@
 
 
-<a href="https://github.com/vtuomist/TVT-VT-26/blob/main/OTK-VT.md">Ohjelmoinnin työkalut ja käyttäjäkokemus</a>
+
+Kurssit:
 <br><br>
-<a href="https://github.com/vtuomist/TVT-VT-26/blob/main/JOHOH-VT.md">Johdatus ohjelmointiin</a>
+- <a href="https://github.com/vtuomist/TVT-VT-26/blob/main/OTK-VT.md">Ohjelmoinnin työkalut ja käyttäjäkokemus</a>
+<br><br>
+- <a href="https://github.com/vtuomist/TVT-VT-26/blob/main/JOHOH-VT.md">Johdatus ohjelmointiin</a>
