@@ -1,4 +1,4 @@
-# Tieto ja viestintätekniika Insinööri (amk), Lapin Ammattikorkeakoulu.
+# Tieto- ja viestintätekniikka Insinööri (amk)
 - Aloitin opintoni syksyllä 2026.
 - Tarkoituksena olisi suunata opiskelu ohjelmistokehitykseen.
 - Pohjalla Tieto- ja viestintätekniikka pt, IT-tukihenkilö.
