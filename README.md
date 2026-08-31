@@ -1,7 +1,7 @@
 # Tieto- ja viestintätekniikan insinööri (AMK) 
 ## Tietoa minusta:
 - Olen 25-vuotias.
-- Aloitin opintoni syksyllä 2026.
+- Aloitin opintoni Lapin AMKissa syksyllä 2026.
 - Pohjalla Tieto- ja viestintätekniikan pt, IT-tukihenkilö.
 - Tarkoituksena olisi suunata opiskelu ohjelmistokehitykseen.
 - Ohjelmistona käytän Visual Studio Codea.
