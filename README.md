@@ -4,7 +4,7 @@ Tietoa minusta:
 - Aloitin opintoni syksyllä 2026.
 - Pohjalla Tieto- ja viestintätekniikan pt, IT-tukihenkilö.
 - Tarkoituksena olisi suunata opiskelu ohjelmistokehitykseen.
-- Ohjelmistona käytän Visual Studio Codea, koska se on selkeä ja tuttu.
+- Ohjelmistona käytän Visual Studio Codea.
 <br><br>
 
 # Kurssit:
