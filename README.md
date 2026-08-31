@@ -1,7 +1,9 @@
-# Tieto- ja viestintätekniikka Insinööri (amk)
+# Tieto- ja viestintätekniikan insinööri (AMK) 
+Tietoa minusta:
+- Olen 25-vuotias.
 - Aloitin opintoni syksyllä 2026.
+- Pohjalla Tieto- ja viestintätekniikan pt, IT-tukihenkilö.
 - Tarkoituksena olisi suunata opiskelu ohjelmistokehitykseen.
-- Pohjalla Tieto- ja viestintätekniikka pt, IT-tukihenkilö.
 - Ohjelmistona käytän Visual Studio Codea, koska se on selkeä ja tuttu.
 <br><br>
 
