@@ -1,9 +1,8 @@
-# Tietoa minusta
+# Tieto ja viestintätekniika Insinööri (amk), Lapin Ammattikorkeakoulu.
 - Aloitin opintoni syksyllä 2026.
-- Tieto ja viestintätekniika Insinööri (amk), Lapin Ammattikorkeakoulu.
 - Tarkoituksena olisi suunata opiskelu ohjelmistokehitykseen.
 - Pohjalla Tieto- ja viestintätekniikka pt, IT-tukihenkilö.
-- Ohjelmistona käytän Visual Studio Codea, koska se on selkeä ja jollain tasolla tuttu.
+- Ohjelmistona käytän Visual Studio Codea, koska se on selkeä ja tuttu.
 <br><br>
 
 # Kurssit:
