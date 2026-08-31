@@ -1,5 +1,6 @@
-
-
+Tietoa minusta:
+Opiskelen Tieto- ja vietintätekniikan insinööri (amk) tutkintoa Lapin Ammattikorkeakoulussa. Aloitin opintoni syksyllä 2026. Ohjelmistona käytän VS codea.
+<br><br>
 
 Kurssit:
 <br><br>
