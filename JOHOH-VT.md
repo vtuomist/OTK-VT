@@ -6,3 +6,17 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 
 <br><br>
 
+<details>
+<summary> Harjoitus 1 tulostus, matematiikka </summary>
+<p>
+   
+kuva ja teksti 
+
+
+
+
+
+
+</p>
+</details>
+<br><br>
