@@ -24,9 +24,21 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 
 
 
+
+
+
+
+<details>
+  
+<summary> Toteutus </summary>
+  
+<p>
+
 Päätin tehdä koko harjoituksen 1-5 yhteen ohjelmaan. Tämä helpottaa arviointia ja auttaa minua oppimaan paremmin.
 
 <img width="1279" height="1439" alt="image" src="https://github.com/user-attachments/assets/11573dfe-8c7b-42f4-bd27-08ae3206d4a8" />
+
+</p>
 
 </details>
 
