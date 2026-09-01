@@ -11,6 +11,24 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 <summary> Harjoitus 1 tulostus, matematiikka </summary>
   
 <p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 <br><br>
 
@@ -22,7 +40,7 @@ Päätin tehdä koko harjoituksen 1-5 yhteen ohjelmaan. Tämä helpottaa arvioin
 
 
 <br><br>
-##1. Hello, world!##
+## 1. Hello, world! ##
 <br><br>
 Tehtävä 1 oli perus vanha kunnon print("Hello, world!").
 
@@ -30,12 +48,29 @@ Tehtävä 1 oli perus vanha kunnon print("Hello, world!").
 
 <br><br>
 
-##2. Arvolisävero laskuri##
+## 2. Arvolisävero laskuri ##
 
 Tehtävä 2 oli arvolisäverolaskuri. Tehtävässä käytin float(), jotta laskuri toimisi mahdollisimman tarkasti. Toinen mainittava on f" joka mahdollisti lyhyen siistin koodin, jossa printataan laskun vastaus.
 
 
-<img width="718" height="247" alt="image" src="https://github.com/user-attachments/assets/1bcdabec-df54-40b3-975c-231b174e4d0e" />
+
+<img width="645" height="235" alt="image" src="https://github.com/user-attachments/assets/53661900-cc6a-4ba3-84bd-701e0d302373" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
