@@ -6,31 +6,3 @@ Kurssin tehtäviä, vastauksia ja kuvia.
 
 <br><br>
 
-<details></details>
-
-<summary>Harjoitus 1 tulostus ja matikka</summary>
-
-<p>
-
-
-asd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-</p>
-
-</details>
-
-<br><br>
