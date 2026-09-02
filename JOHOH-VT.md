@@ -181,6 +181,73 @@ Toinen mainittava on f" joka mahdollisti lyhyen siistin koodin, jossa print() to
 
 
 
+<details>
+
+<summary> 3. Polttoaine laskuri </summary>
+
+<p>
+
+Tehtävässä 3 vaadittiin taas float() ja f". Tällä kertaa käytin tehtävässä myös int(), vaikka float() olisi voinut antaa tarkemmat lukemat. 
+Valitsin int(), koska mielestäni se on tarpeeksi että ohjelma laskee 1km tarkkuudella, eikä input desimailit tee tarpeeksi merkittävää muutosta esim. 75km matkalla.
+
+<img width="719" height="271" alt="image" src="https://github.com/user-attachments/assets/e4bdd0e9-ac16-46e5-a000-63f5d25247fa" />
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+<details>
+
+<summary> 4. Tunnit ja minuutit </summary>
+
+<p>
+
+Tehtävä 4:ssä jouduin käydä lisäämässä Python sanastooni 7 kpl matemaattisia merkkejä. Tehtävää tähdittää int() eli käyttäjä voi syöttää vain minuutteja ja print(f"{}{}").
+Tehtävän olisi varmasti voinut tehdä vain kahdella linellä esim. jälkimmäinen line olisi voinut olla print(f"{aika // 60}t {aika % 60}), mutta tajusin sen vasta tässä kirjottaessa.
+
+
+<img width="605" height="295" alt="image" src="https://github.com/user-attachments/assets/38a5e434-79fa-4796-8cff-62b05315ccce" />
+
+
+</p>
+
+</details>
+
+
+
+
+
+
+
+
+
+<details>
+
+<summary> 5. Kolikko laskuri </summary>
+
+<p>
+
+Tehtävä 5 oli haastava, mutta sain sen tehtyä. Tein sen alkuun hieman eri tavalla ja minulla oli ennen print() line mikä poistaa desimailit tuloksesta, mutta sitten muistin // ja poistin sen linen.
+Kun tehtävästä sai yhden osuuden tehtyä se oli helppo kopioida ja muuttaa vain arvot.
+
+<img width="778" height="972" alt="image" src="https://github.com/user-attachments/assets/f77293bf-6935-4b76-a0bd-bc96ee1b4d04" />
+
+</p>
+
+</details>
+
+
+
+
+
 
 
 
