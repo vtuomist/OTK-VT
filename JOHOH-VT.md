@@ -43,11 +43,12 @@ Tässä harjoituksessa ainoa asia mihin käytin tekoälyä oli Python sanaston l
 Käytin myös Googlea apuna ohjelman luomiseen, sillä minulle tuli ongelma sellaisen loopin tekemisessä, joka kysyisi tehtävän jälkeen uudestaan "minkä harjoitus tehtävän haluat suorittaa?".
 Tähän löysin vastauksen "while True:" eli silmukka käynnistyy kun koodi saapuu sen kohdalle ja ainut tapa poistua siitä on 0 eli "break"
 
-<img width="855" height="466" alt="image" src="https://github.com/user-attachments/assets/4ecbcd4d-6024-48fe-bbbc-f25b181c8116" />
+<img width="981" height="749" alt="image" src="https://github.com/user-attachments/assets/8bc752d0-e346-48c9-8a1c-425b6d47abb3" />
+
 
 <br><br>
 
-## Tässä koodi ##
+Tässä koodi 
 
 def select_number():
     tehtävä = (1, 2, 3, 4, 5)  
@@ -61,7 +62,7 @@ def select_number():
             break
 
         while valinta < 1 or valinta > 5:
-            valinta = int(input("Valitse yksi tehtävänumero 1 ja 5 välillä. poistu 0: "))
+            valinta = int(input("Valitse yksi tehtävänumero 1 ja 5 välillä: "))
 
         if valinta == 1:
                 print("Hello world!")
@@ -116,17 +117,18 @@ def select_number():
                 print(f"1 snt kolikoita {tulos6} kpl")             #1snt
 
 select_number()
+
 <br><br>
 
 Tässä vielä screenshot koko hommasta.
 
-<img width="882" height="1374" alt="image" src="https://github.com/user-attachments/assets/8e4eb864-403a-4406-b566-f51ed232ce33" />
+<img width="1280" height="1439" alt="image" src="https://github.com/user-attachments/assets/7ac066f5-0a93-4cd4-87d3-198ef2f42b33" />
+
 
 
 </p>
 
 </details>
-
 
 
 
