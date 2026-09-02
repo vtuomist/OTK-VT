@@ -36,20 +36,22 @@ Tässä harjoituksessa ainoa asia mihin käytin tekoälyä oli Python sanaston l
 Käytin myös Googlea apuna ohjelman luomiseen, sillä minulle tuli ongelma sellaisen loopin tekemisessä, joka kysyisi tehtävän jälkeen uudestaan "minkä harjoitus tehtävän haluat suorittaa?".
 Tähän löysin vastauksen "while True:" eli silmukka käynnistyy kun koodi saapuu sen kohdalle ja ainut tapa poistua siitä on 0 eli "break"
 
-<img width="981" height="749" alt="image" src="https://github.com/user-attachments/assets/8bc752d0-e346-48c9-8a1c-425b6d47abb3" />
+<img width="885" height="589" alt="image" src="https://github.com/user-attachments/assets/85091473-61ce-4eb3-ba10-cef0f2cd1f8a" />
+
 
 
 <br><br>
 
-Tässä koodi 
+Koodi
 
+# Harjoitus 1 löytyy Githubista
+# valitse tehtävä: 1, 2, 3, 4, 5 , poistu: 0
 def select_number():
     tehtävä = (1, 2, 3, 4, 5)  
-
     while True:    
                     
         valinta = int(input("Minkä harjoitustehtävän haluat suorittaa, 1, 2, 3, 4, 5? poistu 0: "))
-
+        
         if valinta == 0:
             print("Poistuit.")
             break
@@ -57,27 +59,30 @@ def select_number():
         while valinta < 1 or valinta > 5:
             valinta = int(input("Valitse yksi tehtävänumero 1 ja 5 välillä: "))
 
+        # tehtävä 1
         if valinta == 1:
                 print("Hello world!")
                 print("Veeti Tuomisto")
                 print("2001")
                 print("Lahti")
-                                                
+        
+        # tehtävä 2                                        
         elif valinta == 2:
                 hinta = float(input("Anna tuotteen veroton hinta: "))
                 print(f"hinta alv kanssa: {hinta * 1.24}")
-
+        
+        # tehtävä 3
         elif valinta == 3:
-                matka = int(input("Matkan pituus?: "))
+                matka = int(input("Matkan pituus (km)?: "))
                 kulutus = float(f"{matka / 100}")
                 print(f"Polttoaineen kultus tälle matkalle: {kulutus * 6.5}")
 
+        # tehtävä 4
         elif valinta == 4:
                 aika = int(input("Anna minuutit: "))
-                tunnit = aika // 60
-                minuutit = aika % 60
-                print(f"{tunnit}t {minuutit}min")
+                print(f"{aika // 60}t {aika % 60}min")
 
+        # tehtävä 5
         elif valinta == 5:
                 numero1 = int(input("Anna 1-1000000 senttiä: "))
                 tulos1 = numero1 // 50
@@ -113,9 +118,8 @@ select_number()
 
 <br><br>
 
-Tässä vielä screenshot koko hommasta.
+<img width="1280" height="1439" alt="image" src="https://github.com/user-attachments/assets/987bb1a3-d1a4-4ae8-bccf-e9550ae66167" />
 
-<img width="1280" height="1439" alt="image" src="https://github.com/user-attachments/assets/7ac066f5-0a93-4cd4-87d3-198ef2f42b33" />
 
 
 
@@ -208,8 +212,16 @@ Valitsin int(), koska mielestäni se on tarpeeksi että ohjelma laskee 1km tarkk
 Tehtävä 4:ssä kävin lisäämässä Python sanastooni 7 kpl matemaattisia merkkejä. Tehtävässä käytin int() eli käyttäjä voi syöttää vain minuutteja ja print(f"{}{}").
 Tehtävän olisi varmasti voinut tehdä vain kahdella linellä esim. jälkimmäinen line olisi voinut olla print(f"{aika // 60}t {aika % 60}), mutta tajusin sen vasta täällä gitissä.
 
+Korjattu
+
+<img width="567" height="290" alt="image" src="https://github.com/user-attachments/assets/868407ab-b64a-4104-b2ec-a591420fe7b3" />
+
+<br><br>
+Vanha
 
 <img width="605" height="295" alt="image" src="https://github.com/user-attachments/assets/38a5e434-79fa-4796-8cff-62b05315ccce" />
+
+
 
 
 </p>
