@@ -144,7 +144,7 @@ Tässä vielä screenshot koko hommasta.
 <p>
 
 <br><br>
-Tehtävä 1 oli perus vanha kunnon print("Hello, world!").
+Tehtävä 1 oli perus print("Hello, world!") alotus tehtävä.
 
 <img width="585" height="322" alt="image" src="https://github.com/user-attachments/assets/0a361362-38d3-4bde-a0e4-32a10693f883" />
 
@@ -212,7 +212,7 @@ Valitsin int(), koska mielestäni se on tarpeeksi että ohjelma laskee 1km tarkk
 
 <p>
 
-Tehtävä 4:ssä jouduin käydä lisäämässä Python sanastooni 7 kpl matemaattisia merkkejä. Tehtävää tähdittää int() eli käyttäjä voi syöttää vain minuutteja ja print(f"{}{}").
+Tehtävä 4:ssä kävin lisäämässä Python sanastooni 7 kpl matemaattisia merkkejä. Tehtävässä käytin int() eli käyttäjä voi syöttää vain minuutteja ja print(f"{}{}").
 Tehtävän olisi varmasti voinut tehdä vain kahdella linellä esim. jälkimmäinen line olisi voinut olla print(f"{aika // 60}t {aika % 60}), mutta tajusin sen vasta täällä gitissä.
 
 
@@ -237,7 +237,7 @@ Tehtävän olisi varmasti voinut tehdä vain kahdella linellä esim. jälkimmäi
 
 <p>
 
-Tehtävä 5 oli haastava, mutta sain sen tehtyä. Tein sen alkuun hieman eri tavalla ja minulla oli ennen printtiä line joka poistaa desimailit tuloksesta, mutta vaihdoin sen  // ja poistin ylimääräisen linen.
+Tehtävä 5 oli haastava. Tein sen alkuun hieman eri tavalla ja minulla oli ennen printtiä line joka poistaa desimailit tuloksesta, mutta vaihdoin sen  // ja poistin ylimääräisen linen.
 Kun tehtävästä sai yhden osuuden tehtyä se oli helppo kopioida ja muuttaa vain arvot.
 
 <img width="778" height="972" alt="image" src="https://github.com/user-attachments/assets/f77293bf-6935-4b76-a0bd-bc96ee1b4d04" />
