@@ -187,9 +187,10 @@ Toinen mainittava on f" joka mahdollisti lyhyen siistin koodin, jossa print() to
 <p>
 
 Tehtävässä 3 vaadittiin taas float() ja f". Tällä kertaa käytin tehtävässä myös int(), vaikka float() olisi voinut antaa tarkemmat lukemat. 
-Valitsin int(), koska mielestäni se on tarpeeksi että ohjelma laskee 1km tarkkuudella, eikä input desimailit tee tarpeeksi merkittävää muutosta esim. 75km matkalla.
+Valitsin int(), koska mielestäni se on tarpeeksi että ohjelma laskee km tarkkuudella, eikä input desimailit tee tarpeeksi merkittävää muutosta esim. 75km matkalla.
 
-<img width="719" height="271" alt="image" src="https://github.com/user-attachments/assets/e4bdd0e9-ac16-46e5-a000-63f5d25247fa" />
+<img width="738" height="338" alt="image" src="https://github.com/user-attachments/assets/ac5b91a3-fec9-457e-991c-3d6da607e9ac" />
+
 
 </p>
 
