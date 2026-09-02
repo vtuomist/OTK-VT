@@ -42,10 +42,8 @@ Tähän löysin vastauksen "while True:" eli silmukka käynnistyy kun koodi saap
 
 <br><br>
 
-Koodi
+## Koodi ##
 
-# Harjoitus 1 löytyy Githubista
-# valitse tehtävä: 1, 2, 3, 4, 5 , poistu: 0
 def select_number():
     tehtävä = (1, 2, 3, 4, 5)  
     while True:    
